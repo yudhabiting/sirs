@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vtmasukobat" value="name:notrans;datatype:tinytext,name:nofaktur;datatype:tinytext,name:tglfaktur;datatype:date,name:tglterima;datatype:date,name:ksuplier;datatype:tinytext,name:tgljatuhtempo;datatype:date,name:total;datatype:mediumint,name:pajak;datatype:double,name:grandtotal;datatype:numeric,name:lunas;datatype:tinytext,name:suplier;datatype:tinytext" />
+	<infoitem key="UD_tsuplier" value="name:ksuplier;datatype:tinytext,name:suplier;datatype:tinytext,name:alamat;datatype:tinytext,name:telp;datatype:tinytext,name:pembelian;datatype:mediumint,name:persen;datatype:mediumint" />
+	<infoitem key="UD_trumahsakit" value="name:rumahsakit;datatype:tinytext,name:krumahsakit;datatype:tinytext" />
+</info>

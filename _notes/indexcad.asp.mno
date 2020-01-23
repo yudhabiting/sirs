@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tkabupaten" value="name:kabupaten;datatype:tinytext,name:kkabupaten;datatype:tinytext" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tkabupaten" value="name:kabupaten;datatype:tinytext,name:kkabupaten;datatype:tinytext" />
+	<infoitem key="UD_trumahsakit" value="name:rumahsakit;datatype:tinytext,name:krumahsakit;datatype:tinytext" />
+</info>

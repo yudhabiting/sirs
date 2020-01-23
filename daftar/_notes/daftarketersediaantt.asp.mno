@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ttujuan" value="name:ktujuan;datatype:tinytext,name:tujuan;datatype:tinytext,name:karcis;datatype:mediumint,name:tampil;datatype:tinytext" />
+	<infoitem key="UD_tkelompok" value="name:kkelompok;datatype:tinytext,name:kelompok;datatype:tinytext,name:karcis;datatype:mediumint" />
+</info>

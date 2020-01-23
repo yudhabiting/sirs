@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tpenyakit" value="name:kodeinadrg;datatype:tinytext,name:kodeICD;datatype:tinytext,name:nodtd1;datatype:tinytext,name:nodtd2;datatype:tinytext,name:DIAGNOSA;datatype:,name:SUBDIAGNOSA;datatype:,name:KSURVEILANS;datatype:tinytext,name:warna;datatype:tinytext" />
+</info>

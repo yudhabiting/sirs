@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_trawatpasien" value="name:notrans;datatype:tinytext,name:ktujuan;datatype:tinytext,name:statuspasien;datatype:tinytext,name:tglmasuk;datatype:date,name:nocm;datatype:tinytext,name:nopas;datatype:tinytext,name:nama;datatype:tinytext,name:umurthn;datatype:mediumint,name:umurbln;datatype:mediumint,name:alamat;datatype:tinytext,name:orangtua;datatype:tinytext" />
+	<infoitem key="UD_trumahsakit" value="name:rumahsakit;datatype:tinytext,name:krumahsakit;datatype:tinytext" />
+	<infoitem key="UD_tinputpengeluaran" value="name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:pengeluaran;datatype:,name:tarif;datatype:mediumint" />
+</info>

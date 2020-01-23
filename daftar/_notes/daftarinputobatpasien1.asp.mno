@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vtinputobatpasien" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:kobat;datatype:tinytext,name:tarif;datatype:mediumint,name:jumlah;datatype:mediumint,name:ket;datatype:tinytext,name:obat;datatype:tinytext,name:subtotal;datatype:mediumint" />
+	<infoitem key="UD_tgolobat" value="name:kgolobat;datatype:tinytext,name:golobat;datatype:tinytext,name:sawal;datatype:mediumint,name:smasuk;datatype:mediumint,name:skeluar1;datatype:mediumint,name:skeluar2;datatype:mediumint,name:sakhir;datatype:mediumint" />
+	<infoitem key="UD_tjenisobat" value="name:kjenisobat;datatype:tinytext,name:jenisobat;datatype:tinytext,name:sawal;datatype:mediumint,name:smasuk;datatype:mediumint,name:skeluar1;datatype:mediumint,name:skeluar2;datatype:mediumint,name:sakhir;datatype:mediumint" />
+	<infoitem key="UD_tobat" value="name:kobat;datatype:tinytext,name:obat;datatype:tinytext,name:isi;datatype:tinytext,name:kemasan;datatype:tinytext,name:farmasi;datatype:tinytext,name:kgolobat;datatype:tinytext,name:KJENISOBAT;datatype:tinytext,name:hbeli;datatype:mediumint,name:hjual;datatype:mediumint,name:sawal;datatype:mediumint,name:smasuk;datatype:mediumint,name:skeluar;datatype:mediumint,name:sakhir;datatype:mediumint,name:sminimal;datatype:mediumint,name:smaksimal;datatype:mediumint" />
+</info>

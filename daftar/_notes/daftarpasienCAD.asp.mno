@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tpasien" value="name:nocm;datatype:tinytext,name:nopas;datatype:tinytext,name:nama;datatype:tinytext,name:umurthn;datatype:mediumint,name:umurbln;datatype:mediumint,name:alamat;datatype:tinytext,name:orangtua;datatype:tinytext" />
+</info>
