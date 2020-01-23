@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vtinputkelaspasien" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:kkelas;datatype:tinytext,name:ket;datatype:tinytext,name:kelas;datatype:tinytext,name:kriteria;datatype:tinytext,name:tarif;datatype:mediumint,name:tarifruang;datatype:mediumint" />
+	<infoitem key="UD_tkelas" value="name:kkelas;datatype:tinytext,name:kelas;datatype:tinytext,name:kriteria;datatype:tinytext,name:tarif;datatype:mediumint,name:administrasi;datatype:mediumint,name:jmlkamar;datatype:mediumint,name:jmlbed;datatype:mediumint,name:tampil;datatype:tinytext" />
+	<infoitem key="UD_trawatpasien" value="name:notrans;datatype:tinytext,name:nocm;datatype:tinytext,name:nama;datatype:tinytext,name:alamat;datatype:tinytext,name:tglmasuk;datatype:date,name:umurthn;datatype:mediumint,name:umurbln;datatype:mediumint,name:umurhr;datatype:mediumint" />
+	<infoitem key="UD_tinputkelaspasien" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:kkelas;datatype:tinytext,name:tarif;datatype:mediumint,name:ket;datatype:tinytext" />
+</info>

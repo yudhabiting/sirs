@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vtinputobatmasuk" value="name:notrans;datatype:tinytext,name:nourut;datatype:mediumint,name:kobat;datatype:tinytext,name:nobatch;datatype:tinytext,name:jmlbox;datatype:mediumint,name:jmlbiji;datatype:mediumint,name:harga;datatype:mediumint,name:subtotal;datatype:mediumint,name:obat;datatype:tinytext" />
+	<infoitem key="UD_tobat" value="name:kobat;datatype:tinytext,name:obat;datatype:tinytext,name:isi;datatype:tinytext,name:kemasan;datatype:tinytext,name:farmasi;datatype:tinytext,name:kgolobat;datatype:tinytext,name:KJENISOBAT;datatype:tinytext,name:hbeli;datatype:mediumint,name:hjual;datatype:mediumint,name:sawal;datatype:mediumint,name:smasuk;datatype:mediumint,name:skeluar;datatype:mediumint,name:sakhir;datatype:mediumint,name:sminimal;datatype:mediumint,name:smaksimal;datatype:mediumint" />
+	<infoitem key="UD_tsuplier" value="name:ksuplier;datatype:tinytext,name:suplier;datatype:tinytext" />
+	<infoitem key="UD_tmasukobat" value="name:notrans;datatype:tinytext,name:nofaktur;datatype:tinytext,name:tglfaktur;datatype:date,name:tglterima;datatype:date,name:ksuplier;datatype:tinytext,name:tgljatuhtempo;datatype:date,name:total;datatype:mediumint,name:pajak;datatype:double,name:grandtotal;datatype:numeric,name:lunas;datatype:tinytext" />
+	<infoitem key="UD_titemmasukobat" value="name:notrans;datatype:tinytext,name:nourut;datatype:mediumint,name:kobat;datatype:tinytext,name:nobatch;datatype:tinytext,name:jmlbox;datatype:mediumint,name:jmlbiji;datatype:mediumint,name:harga;datatype:mediumint,name:subtotal;datatype:mediumint" />
+</info>

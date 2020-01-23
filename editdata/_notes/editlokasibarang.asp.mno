@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tlokasi" value="name:KLOKASI;datatype:tinytext,name:LOKASI;datatype:tinytext" />
+	<infoitem key="UD_tbarang" value="name:KBARANG;datatype:tinytext,name:KODEBARANG;datatype:tinytext,name:BARANG;datatype:tinytext,name:KGOLBARANG;datatype:tinytext,name:KJENISBARANG;datatype:tinytext,name:MERK;datatype:tinytext,name:BAHAN;datatype:tinytext,name:UKURAN;datatype:tinytext,name:KETERANGAN;datatype:tinytext,name:SAWAL;datatype:mediumint,name:SMASUK;datatype:mediumint,name:SKELUAR;datatype:mediumint,name:SAKHIR;datatype:mediumint" />
+</info>

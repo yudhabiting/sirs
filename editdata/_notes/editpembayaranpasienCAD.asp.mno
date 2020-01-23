@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tinputpembayaran" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:totalbayar;datatype:mediumint,name:bayar;datatype:mediumint,name:sisa;datatype:mediumint,name:lunas;datatype:tinytext,name:ket;datatype:tinytext" />
+	<infoitem key="UD_trawatpasien" value="name:notrans;datatype:tinytext,name:nocm;datatype:tinytext,name:nama;datatype:tinytext,name:alamat;datatype:tinytext,name:tglmasuk;datatype:date,name:umurthn;datatype:mediumint,name:umurbln;datatype:mediumint,name:umurhr;datatype:mediumint,name:total;datatype:mediumint" />
+	<infoitem key="UD_tinputpembayaranedit" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:totalbayar;datatype:mediumint,name:bayar;datatype:mediumint,name:sisa;datatype:mediumint,name:lunas;datatype:tinytext,name:ket;datatype:tinytext" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tinputanalisasituasi" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:shift;datatype:tinytext,name:analisasituasi;datatype:tinytext,name:kpegawai;datatype:tinytext" />
+</info>

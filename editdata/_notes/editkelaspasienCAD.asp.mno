@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tkelas" value="name:kkelas;datatype:tinytext,name:kelas;datatype:tinytext,name:kriteria;datatype:tinytext,name:tarif;datatype:mediumint,name:tarifasuransi01;datatype:mediumint,name:tarifasuransi02;datatype:mediumint,name:tarifasuransi03;datatype:mediumint,name:tarifasuransi04;datatype:mediumint,name:tarifasuransi05;datatype:mediumint,name:tarifasuransi06;datatype:mediumint,name:tarifasuransi07;datatype:mediumint,name:tarifasuransi08;datatype:mediumint,name:tarifasuransi09;datatype:mediumint,name:tarifasuransi10;datatype:mediumint,name:administrasi;datatype:mediumint,name:jmlkamar;datatype:mediumint,name:jmlbed;datatype:mediumint,name:kgolkelas;datatype:tinytext,name:klasifikasi;datatype:tinytext,name:tampil;datatype:tinytext" />
+</info>

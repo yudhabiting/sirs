@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vtinputtindakanpasien" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:ktindakan;datatype:tinytext,name:tarif;datatype:mediumint,name:pemeriksaan;datatype:tinytext,name:hasil;datatype:,name:kpegawai;datatype:tinytext,name:TINDAKAN;datatype:tinytext" />
+	<infoitem key="UD_tgoltindakan" value="name:kgoltindakan;datatype:tinytext,name:goltindakan;datatype:tinytext" />
+	<infoitem key="UD_tjenistindakan" value="name:KJENISTINDAKAN;datatype:tinytext,name:JENISTINDAKAN;datatype:tinytext,name:KGOLTINDAKAN;datatype:tinytext" />
+	<infoitem key="UD_ttindakan" value="name:KTINDAKAN;datatype:tinytext,name:TINDAKAN;datatype:tinytext,name:TARIF;datatype:mediumint,name:KGOLTINDAKAN;datatype:tinytext,name:KJENISTINDAKAN;datatype:tinytext,name:SATUAN;datatype:tinytext,name:HASIL;datatype:tinytext" />
+	<infoitem key="UD_trawatpasien" value="name:notrans;datatype:tinytext,name:nocm;datatype:tinytext,name:nama;datatype:tinytext,name:alamat;datatype:tinytext,name:tglmasuk;datatype:date,name:umurthn;datatype:mediumint,name:umurbln;datatype:mediumint,name:umurhr;datatype:mediumint" />
+	<infoitem key="UD_tinputtindakanpasien" value="name:notrans;datatype:tinytext,name:tgltrans;datatype:date,name:nourut;datatype:mediumint,name:ktindakan;datatype:tinytext,name:tarif;datatype:mediumint,name:pemeriksaan;datatype:tinytext,name:hasil;datatype:,name:kpegawai;datatype:tinytext" />
+</info>

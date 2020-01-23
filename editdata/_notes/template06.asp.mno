@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tkecamatan" value="name:kecamatan;datatype:tinytext,name:kkecamatan;datatype:tinytext" />
+	<infoitem key="UD_tkelurahan" value="name:kelurahan;datatype:tinytext,name:kkecamatan;datatype:tinytext,name:kkelurahan;datatype:tinytext" />
+	<infoitem key="UD_tkelompok" value="name:kkelompok;datatype:tinytext,name:kelompok;datatype:tinytext,name:karcis;datatype:mediumint" />
+</info>
