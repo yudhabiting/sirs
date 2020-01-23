@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tbulan" value="name:bulan;datatype:tinytext,name:jumlah1;datatype:bigint,name:jumlah2;datatype:bigint" />
+</info>

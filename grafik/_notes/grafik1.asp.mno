@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tmenu" value="name:kmenu1;datatype:tinytext,name:kmenu2;datatype:tinytext,name:menu;datatype:tinytext,name:status;datatype:tinytext,name:tampil;datatype:tinytext,name:link;datatype:tinytext,name:target;datatype:tinytext,name:class;datatype:tinytext,name:foto;datatype:tinytext,name:keterangan;datatype:,name:ctabelmenu;datatype:tinytext,name:judul;datatype:tinytext,name:statusaplikasi;datatype:tinytext" />
+	<infoitem key="UD_tsubmenu" value="name:kmenu1;datatype:tinytext,name:kmenu2;datatype:tinytext,name:menu;datatype:tinytext,name:status;datatype:tinytext,name:tampil;datatype:tinytext,name:link;datatype:tinytext,name:target;datatype:tinytext,name:class;datatype:tinytext,name:foto;datatype:tinytext,name:keterangan;datatype:,name:ctabelmenu;datatype:tinytext,name:judul;datatype:tinytext,name:statusaplikasi;datatype:tinytext" />
+	<infoitem key="UD_tsubmenujudul" value="name:kmenu1;datatype:tinytext,name:kmenu2;datatype:tinytext,name:menu;datatype:tinytext,name:status;datatype:tinytext,name:tampil;datatype:tinytext,name:link;datatype:tinytext,name:target;datatype:tinytext,name:class;datatype:tinytext,name:foto;datatype:tinytext,name:keterangan;datatype:,name:ctabelmenu;datatype:tinytext,name:judul;datatype:tinytext,name:statusaplikasi;datatype:tinytext" />
+	<infoitem key="UD_tkelompok" value="name:kkelompok;datatype:tinytext,name:kelompok;datatype:tinytext,name:karcis;datatype:mediumint" />
+</info>

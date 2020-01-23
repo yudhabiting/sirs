@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_trawatjalan" value="name:jumlah;datatype:bigint,name:tgltrans;datatype:tinytext" />
+	<infoitem key="UD_trawatpasien1" value="name:jumlah1;datatype:bigint,name:tgltrans;datatype:tinytext" />
+	<infoitem key="UD_trawatpasien0" value="name:jumlah0;datatype:bigint,name:tgltrans;datatype:tinytext" />
+	<infoitem key="UD_tbulan" value="name:bulan;datatype:tinytext,name:jumlah0;datatype:bigint,name:jumlah1;datatype:bigint,name:jumlah2;datatype:bigint,name:jumlah3;datatype:bigint,name:jumlah4;datatype:bigint,name:jumlah5;datatype:bigint" />
+</info>
